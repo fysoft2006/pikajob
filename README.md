@@ -10,6 +10,11 @@ PikaJob is pure-Java Asynchronous Job-Flow Platform.
 - Java项目(1.6+)
 - Maven管理(3.0.5+)
 
+disconf.git branches and Maven version:
+
+- dev(develop branch): 0.0.1-SNAPSHOT
+- [更新日志](https://github.com/knightliao/pikajob/wiki/updates) 
+
 ## 它是什么? ##
 
 - 命名为PikaJob
