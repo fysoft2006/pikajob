@@ -10,6 +10,8 @@
     <modules>
         <module>pikajob-client</module>
         <module>pikajob-core</module>
+        <module>pikajob-demos/pikajob-web-demo</module>
+        <module>pikajob-demos/pikajob-standalone-demo</module>
     </modules>
     <packaging>pom</packaging>
 

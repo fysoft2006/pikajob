@@ -14,8 +14,8 @@
     <modelVersion>4.0.0</modelVersion>
     <name>pikajob-client</name>
     <groupId>com.baidu.pikajob</groupId>
-    <artifactId>pikiajob-client</artifactId>
-    <version>${pikiajob-client.version}</version>
+    <artifactId>pikajob-client</artifactId>
+    <version>${pikajob-client.version}</version>
 
     <licenses>
         <license>
