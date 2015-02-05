@@ -22,7 +22,7 @@ disconf.git branches and Maven version:
 
 PikaJob可以为各种业务平台提供统一的异步工作流解决方案。
 
-## 未来版本（完全版）功能特点 ##
+## 完全版功能特点 ##
 
 ### 重要功能特点 ###
 
