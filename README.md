@@ -5,6 +5,8 @@ PikaJob is pure-Java Asynchronous Job-Flow Platform.
 
 通用异步工作流平台
 
+![http://ww1.sinaimg.cn/bmiddle/60c9620fjw1eozsd1u8fuj205k06a3z3.jpg](http://ww1.sinaimg.cn/bmiddle/60c9620fjw1eozsd1u8fuj205k06a3z3.jpg)
+
 ## 项目信息 ##
 
 - Java项目(1.6+)
