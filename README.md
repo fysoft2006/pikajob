@@ -51,9 +51,7 @@ PikaJob可以为各种业务平台提供统一的异步工作流解决方案。
 
 ## 开发人员指南 ##
 
-- [pikajob详细设计文档](https://github.com/knightliao/pikajob/wiki/overall-design.md)
-
-- 详细设计文档
+- [pikajob详细设计文档](https://github.com/knightliao/pikajob/wiki/overall-design)
 
 ## 其它 ##
 
